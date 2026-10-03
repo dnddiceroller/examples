@@ -2,6 +2,8 @@
 
 From the team behind [dnddiceroller.com](https://dnddiceroller.com) · [more from us](https://github.com/dnddiceroller)
 
+<img width="1468" height="862" alt="Screenshot 2026-10-03 at 1 14 35 pm" src="https://github.com/user-attachments/assets/f201adfd-8bf0-4cbd-bfb4-ed33f05f8890" />
+
 Small, runnable, deliberately simplified. Each one shows an idea from [roll-verification-spec](https://github.com/dnddiceroller/roll-verification-spec) in a single file you can read in five minutes. None of it is production code.
 
 Node 20 or later. No dependencies.
